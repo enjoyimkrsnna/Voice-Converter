@@ -82,10 +82,11 @@ This Android application is designed to facilitate communication for individuals
 ## Screenshots
 
 ![a06150ea-0cfb-4a44-8c46-aecf20515dc1](https://github.com/user-attachments/assets/f41a8f95-145a-4dc1-9995-35ac39da6d9f)
+![c618a146-6e65-4ed3-9438-2e68db69d2bb](https://github.com/user-attachments/assets/d977534c-d243-4af8-ab91-9899561f1c5f)
 ![8e799bb2-395c-4c75-99ba-bbbb06387959](https://github.com/user-attachments/assets/ba5ac215-d1fd-4efe-9c22-8ce2536f7e73)
 ![dfa43e5d-c229-494b-bce7-ffa424d34f15](https://github.com/user-attachments/assets/56ba3366-c1c5-49e3-9a5e-234f8d4d7aea)
 ![d75682df-8df8-428f-8921-3d0dbcf8e478](https://github.com/user-attachments/assets/dff19578-c33e-481e-9999-8a581ed7bcf2)
 ![fb1633c0-625d-43fd-891b-7a62dc2507b8](https://github.com/user-attachments/assets/83c198c6-c342-4d2f-89be-d3a8d868680a)
-![c618a146-6e65-4ed3-9438-2e68db69d2bb](https://github.com/user-attachments/assets/d977534c-d243-4af8-ab91-9899561f1c5f)
+
 
 
